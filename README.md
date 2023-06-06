@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niharika Ganji
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Data Science!!
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 🌱 I’m currently doing my Masters in Data Science at Indiana University!!
+- 💞️ I’m looking to collaborate on Machine Learning and Data Science Projects
 - 📫 Reach me @ganjiniharika@gmail.com
 
 <!---
