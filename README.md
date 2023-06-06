@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Data Science!!
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me @ganjiniharika@gmail.com
+- 📫 Reach me @ganjiniharika@gmail.com
 
 <!---
 NiharikaGanji9/NiharikaGanji9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
