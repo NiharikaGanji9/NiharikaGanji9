@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niharika Ganji
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently doing my Masters in Data Science at Indiana University!!
+- 🌱 I recently graduted with a Masters in Data Science at Indiana University!!
 - 📫 Reach out to me @ ganjiniharika@gmail.com
 
 <!---
