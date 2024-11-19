@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Niharika Ganji
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I recently graduted with a Masters in Data Science at Indiana University!!
+- 👀 I’m interested in Data Science.
+- 🌱 I work as a Data Scientist at Toyota!!
+- 🌱 I am currently located in the USA.
 - 📫 Reach out to me @ ganjiniharika@gmail.com
 
 <!---
